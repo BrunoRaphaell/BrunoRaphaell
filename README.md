@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoraphaell&label=Profile%20views&color=0e75b6&style=flat" alt="brunoraphaell" /> </p>
 
-- 🔭 I’m currently working on [Alura](https://cursos.alura.com.br/user/bruno-matos0)
+- 🔭 I’m currently working on [Cast Group](https://www.castgroup.com.br/en/)
 
 - 🌱 I’m currently learning **about machine learning, artificial intelligence, deep learning and data science in general**
 
