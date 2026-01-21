@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoraphaell&label=Profile%20views&color=0e75b6&style=flat" alt="brunoraphaell" /> </p>
 
-- 🔭 I’m currently working on [iFood](https://www.castgroup.com.br/en/)
+- 🔭 I’m currently working on [iFood](https://www.ifood.com.br)
 
 - 🌱 I’m currently learning **about machine learning, artificial intelligence, deep learning and data science in general**
 
